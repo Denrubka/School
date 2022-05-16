@@ -96,3 +96,30 @@
     src: local(''),
     url('../fonts/ProximaNova/ProximaNova-Semibold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+/* proxima-700 - latin_cyrillic */
+@font-face {
+    font-family: 'Segoe';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+    url('../fonts/segoe/SegoeUI-Bold.woff2') format('woff2');
+    url('../fonts/segoe/SegoeUI-Bold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* proxima-regular - latin_cyrillic */
+@font-face {
+    font-family: 'Segoe';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+    url('../fonts/segoe/SegoeUI.woff2') format('woff2');
+    url('../fonts/segoe/SegoeUI.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* proxima-600 - latin_cyrillic */
+@font-face {
+    font-family: 'Segoe';
+    font-style: normal;
+    font-weight: 600;
+    src: local(''),
+    url('../fonts/segoe/SegoeUI-SemiBold.woff2') format('woff2');
+    url('../fonts/segoe/SegoeUI-SemiBold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}

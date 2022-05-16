@@ -31,7 +31,7 @@ body {
 }
 .intro__text span {
     display: block;
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 400;
     font-size: 18px;
     line-height: 27px;
@@ -51,7 +51,7 @@ body {
     line-height: 96px;
 }
 .intro__top-text {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 400;
     font-size: 18px;
     line-height: 27px;
@@ -95,7 +95,7 @@ body {
 }
 .intro__bottom-title {
     position: relative;
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -115,7 +115,7 @@ body {
     z-index: -1;
 }
 .intro__bottom-text {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 400;
     font-size: 18px;
     line-height: 27px;
@@ -161,7 +161,7 @@ body {
     margin-bottom: 16px;
 }
 .about__card-text {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 400;
     font-size: 14px;
     line-height: 21px;
@@ -222,7 +222,7 @@ body {
     margin-bottom: 6px;
 }
 .description__title {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     position: relative;
     font-weight: 700;
     font-size: 40px;
@@ -242,7 +242,7 @@ body {
     z-index: -1;
 }
 .description__text {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 400;
     font-size: 18px;
     line-height: 27px;
@@ -254,7 +254,7 @@ body {
     text-align: center;
 }
 .programs__title {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     position: relative;
     font-weight: 700;
     font-size: 40px;
@@ -275,7 +275,7 @@ body {
     background: #FFE500;
 }
 .programs__subtitle {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     display: block;
     font-weight: 400;
     font-size: 18px;
@@ -314,7 +314,7 @@ body {
     color: #FFFFFF;
 }
 .programs__text {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 400;
     font-size: 18px;
     line-height: 27px;
@@ -349,7 +349,7 @@ body {
     z-index: 999;
 }
 .programs__slider-subtitle {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 400;
     font-size: 14px;
     line-height: 21px;
@@ -374,13 +374,13 @@ body {
     flex-direction: column;
 }
 .programs__work-text {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 400;
     font-size: 18px;
     line-height: 27px;
 }
 .programs__work-title {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-size: 18px;
     line-height: 27px;
     font-weight: 600;
@@ -405,7 +405,7 @@ body {
     background: url('../img/price-triangle.png')no-repeat top right;
 }
 .price__title {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 700;
     font-size: 40px;
     line-height: 60px;
@@ -458,7 +458,7 @@ body {
     padding: 14px 30px 0 30px;
 }
 .price__item-text {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 400;
     font-size: 18px;
     line-height: 27px;
@@ -518,7 +518,7 @@ body {
     cursor: pointer;
 }
 .price__item-discount {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 400;
     font-size: 12px;
     line-height: 18px;
@@ -531,7 +531,7 @@ body {
     justify-content: center;
 }
 .price__text {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 700;
     font-size: 36px;
     line-height: 54px;
@@ -555,7 +555,7 @@ body {
 }
 .footer__span {
     display: block;
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 400;
     font-size: 14px;
     line-height: 21px;
@@ -563,7 +563,7 @@ body {
     margin-bottom: 14px;
 }
 .footer__link {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 400;
     font-size: 14px;
     line-height: 21px;
@@ -579,7 +579,7 @@ body {
     margin-bottom: 14px;
 }
 .footer__email {
-    font-family: 'Proxima';
+    font-family: 'Segoe';
     font-weight: 600;
     font-size: 14px;
     line-height: 21px;
@@ -608,7 +608,7 @@ body {
     .intro__img {
         width: 360px;
         top: 280px;
-        right: 0;
+        right: 12px;
     }
     .description__img--phone {
         margin-right: 70px;
