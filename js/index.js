@@ -17,4 +17,21 @@ $(document).ready(function() {
             centerMode: true,
         });
     }
+    const anchors = document.querySelectorAll('.buttonToBlock');
+    for (let anchor of anchors) {
+        anchor.addEventListener('click touchend', function (e) {
+            e.preventDefault()
+
+            const blockID = anchor.getAttribute('href').substr(1)
+
+            document.getElementById(blockID).scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+            })
+        })
+    }
+    document.addEventListener('click', (e) => {
+        const target = e.target;
+        console.log(target)
+    })
 });
