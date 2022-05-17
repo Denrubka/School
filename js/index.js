@@ -11,8 +11,10 @@ $(document).ready(function() {
         $('.programs__slider').slick({
             infinite: false,
             arrows: false,
-            centerMode: false,
+            slidesToShow: 1,
             slidesToScroll: 1,
+            variableWidth: true,
+            centerMode: true,
         });
     }
 });
