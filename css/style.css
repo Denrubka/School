@@ -946,7 +946,7 @@ body {
         left: 119px;
     }
 }
-@media (max-width: 481px) {
+@media (max-width: 479px) {
     .intro__top-suptitle {
         font-size: 14px;
     }
@@ -957,7 +957,7 @@ body {
         font-size: 14px;
     }
     .intro__img {
-        top: 450px;
+        top: 447px;
     }
     .intro__bottom-suptitle {
         position: relative;
